@@ -15,7 +15,7 @@ terraform {
     organization = "obligatorio-devops" 
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "devops"
     }
   }
 }
